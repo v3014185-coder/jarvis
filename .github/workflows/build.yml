@@ -31,7 +31,6 @@ jobs:
         run: |
           pyinstaller --onefile --name=JARVIS \
             --add-data "jarvis_sample.wav:." \
-            --add-data "da_ser.wav:." \
             assistant.py
 
       - name: Upload
