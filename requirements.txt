@@ -1,0 +1,13 @@
+gigachat
+edge-tts
+soundfile
+sounddevice
+SpeechRecognition
+numpy
+requests
+psutil
+Pillow
+pystray
+keyboard
+pyperclip
+scipy
